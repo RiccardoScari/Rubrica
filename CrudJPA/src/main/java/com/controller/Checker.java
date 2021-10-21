@@ -22,9 +22,7 @@ public class Checker extends HttpServlet {
 	@EJB
 	UserBeanRemote utenteDAO;
 
-	/**
-	 * @see HttpServlet#HttpServlet()
-	 */
+
 	public Checker() {
 		super();
 		// TODO Auto-generated constructor stub
