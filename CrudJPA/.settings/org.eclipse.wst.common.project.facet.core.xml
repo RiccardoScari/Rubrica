@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
-  <runtime name="apache-tomcat-9.0.46"/>
+  <runtime name="WildFly 24.0 Runtime"/>
   <fixed facet="wst.jsdt.web"/>
   <installed facet="wst.jsdt.web" version="1.0"/>
   <installed facet="jboss.m2" version="1.0"/>
